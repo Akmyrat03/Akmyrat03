@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akmyrat03
-- 👀 I’m interested in open-source projects, and AI
+- 👀 I’m interested in golang projects
 - 📫 How to reach me akmobile.tm@gmail.com
 - ⚡ Fun fact: I love coding
 
