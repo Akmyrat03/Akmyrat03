@@ -11,7 +11,9 @@
 - 🏗️ Building robust APIs and backend services  
 - 🧠 Deep diving into <strong>PostgreSQL</strong>, <strong>Redis</strong>, and <strong>ScyllaDB</strong>  
 - 🐧 Crafting in Linux environments with Docker & Git  
-- 💡 Focused on clean architecture, reliability, and infrastructure
+- 💡 Focused on clean architecture, reliability, and infrastructure  
+- 🚀 Experience developing microservices for a short-video social platform with features like inter-service communication, WebSockets, gRPC, and JWT authentication  
+- 📊 Implemented distributed systems with RabbitMQ, Casbin, and centralized logging/monitoring using the ELK stack  
 
 ---
 
@@ -25,23 +27,17 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akmyrat03&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmyrat03&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-0F0F0F?style=flat-square&logo=grpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white" />
 </p>
 
 ---
 
 ### 📬 Contact
 
-- 📧 Email: [akmobile.tm@gmail.com](mailto:akmobile.tm@gmail.com)
-- 🔗 GitHub: [github.com/Akmyrat03](https://github.com/Akmyrat03)
+- 📧 Email: [backendprogrammer0@gmail.com](mailto:backendprogrammer0@gmail.com)  
+- 🔗 Telegram: [@meredow03](https://t.me/meredow03)  
 
 ---
 
