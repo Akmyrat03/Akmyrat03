@@ -6,8 +6,6 @@
 
 ---
 
-### ⚙️ What I Do
-
 - 🏗️ Building robust APIs and backend services  
 - 🧠 Deep diving into <strong>PostgreSQL</strong>, <strong>Redis</strong>, and <strong>ScyllaDB</strong>  
 - 🐧 Crafting in Linux environments with Docker & Git  
