@@ -1,44 +1,49 @@
-<h1 align="left">👋 Hey, I'm Akmyrat</h1>
+# Akmyrat — Backend Engineer (Go)
 
-<p align="left">
-  Backend Engineer specializing in high-performance, scalable systems with <strong>Golang</strong>.
+I design and build backend systems that stay fast and correct under load: microservices, distributed transactions, event-driven pipelines, and the observability needed to run them in production.
+
+**Currently:** building Go services with a focus on concurrency, data consistency, and clean architecture.
+
+## Experience Highlights
+
+- **Short-video social platform:** designed and shipped microservices for content, users, and real-time features. Services talk over **gRPC** and **RabbitMQ**, and push real-time updates over **WebSockets**.
+- **AuthN / AuthZ:** JWT-based authentication and policy-driven authorization (RBAC/ABAC) with **Casbin**.
+- **Data layer:** modeled data across **PostgreSQL** (transactional), **Redis** (caching, rate limiting), and **ScyllaDB** (high-throughput, write-heavy feeds).
+- **Observability:** centralized logging and monitoring with the **ELK stack**, plus structured logging across services.
+- **Delivery:** containerized services with **Docker**, Linux-based deployments, and CI with GitHub Actions.
+
+## Featured Projects
+
+| Project | What it demonstrates |
+|---|---|
+| [saga-orchestration-go](https://github.com/Akmyrat03/saga-orchestration-go) | Distributed transactions across microservices using the orchestrated Saga pattern, with compensating actions |
+| [wallet](https://github.com/Akmyrat03/wallet) | Wallet service with safe balance operations and transactional consistency |
+| [avito_transaction_manager_example](https://github.com/Akmyrat03/avito_transaction_manager_example) | Transaction manager pattern that keeps the domain layer clean of DB transaction details |
+| [concurrency_patterns](https://github.com/Akmyrat03/concurrency_patterns) | Go concurrency in practice: worker pools, fan-in/fan-out, pipelines, cancellation with `context` |
+| [grpc-practice](https://github.com/Akmyrat03/grpc-practice) | gRPC services with Protobuf contracts, unary and streaming RPCs |
+| [architecture](https://github.com/Akmyrat03/architecture) | Clean / hexagonal architecture layout for Go services |
+| [logger](https://github.com/Akmyrat03/logger) | Reusable structured logging package |
+| [monitoring](https://github.com/Akmyrat03/monitoring) | Observability stack setup for metrics and logs |
+
+## Tech Stack
+
+**Languages:** Go, SQL
+**Communication:** gRPC, Protobuf, REST, WebSockets, RabbitMQ
+**Data:** PostgreSQL, Redis, ScyllaDB
+**Security:** JWT, Casbin
+**Infra & Ops:** Docker, Linux, Git, GitHub Actions, ELK (Elasticsearch, Logstash, Kibana)
+**Practices:** Clean Architecture, DDD, Saga, Transactional Outbox, concurrency patterns, testing
+
+## GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akmyrat03&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmyrat03&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
----
+## Contact
 
-- 🏗️ Building robust APIs and backend services  
-- 🧠 Deep diving into <strong>PostgreSQL</strong>, <strong>Redis</strong>, and <strong>ScyllaDB</strong>  
-- 🐧 Crafting in Linux environments with Docker & Git  
-- 💡 Focused on clean architecture, reliability, and infrastructure  
-- 🚀 Experience developing microservices for a short-video social platform with features like inter-service communication, WebSockets, gRPC, and JWT authentication  
-- 📊 Implemented distributed systems with RabbitMQ, Casbin, and centralized logging/monitoring using the ELK stack  
+- Email: [backendprogrammer0@gmail.com](mailto:backendprogrammer0@gmail.com)
+- Telegram: [@meredow03](https://t.me/meredow03)
 
----
-
-### 🧰 Tech I Work With
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-a41e11?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ScyllaDB-4DB8D1?style=flat-square&logo=scylladb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-0F0F0F?style=flat-square&logo=grpc&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white" />
-</p>
-
----
-
-### 📬 Contact
-
-- 📧 Email: [backendprogrammer0@gmail.com](mailto:backendprogrammer0@gmail.com)  
-- 🔗 Telegram: [@meredow03](https://t.me/meredow03)  
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Akmyrat03&label=Profile+Views&color=blueviolet&style=flat-square" />
-</p>
+I'm open to backend / Go engineering roles and collaboration on distributed systems.
