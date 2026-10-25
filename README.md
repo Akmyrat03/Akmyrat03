@@ -1,49 +1,60 @@
-# Akmyrat — Backend Engineer (Go)
+<div align="center">
 
-I design and build backend systems that stay fast and correct under load: microservices, distributed transactions, event-driven pipelines, and the observability needed to run them in production.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:5E2CA5&height=180&section=header&text=Akmyrat&fontSize=60&fontColor=ffffff&desc=Backend%20Engineer%20%E2%80%A2%20Go&descSize=20&descAlignY=72" width="100%" />
 
-**Currently:** building Go services with a focus on concurrency, data consistency, and clean architecture.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Scalable+microservices+in+Go;gRPC+%E2%80%A2+RabbitMQ+%E2%80%A2+WebSockets;PostgreSQL+%E2%80%A2+Redis+%E2%80%A2+ScyllaDB;Distributed+systems+%26+Saga+pattern" />
 
-## Experience Highlights
+<br/>
 
-- **Short-video social platform:** designed and shipped microservices for content, users, and real-time features. Services talk over **gRPC** and **RabbitMQ**, and push real-time updates over **WebSockets**.
-- **AuthN / AuthZ:** JWT-based authentication and policy-driven authorization (RBAC/ABAC) with **Casbin**.
-- **Data layer:** modeled data across **PostgreSQL** (transactional), **Redis** (caching, rate limiting), and **ScyllaDB** (high-throughput, write-heavy feeds).
-- **Observability:** centralized logging and monitoring with the **ELK stack**, plus structured logging across services.
-- **Delivery:** containerized services with **Docker**, Linux-based deployments, and CI with GitHub Actions.
+<a href="mailto:backendprogrammer0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/meredow03"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Open%20to%20work-2EA043?style=for-the-badge" />
 
-## Featured Projects
+</div>
 
-| Project | What it demonstrates |
+---
+
+### ⚡ What I do
+
+| | |
 |---|---|
-| [saga-orchestration-go](https://github.com/Akmyrat03/saga-orchestration-go) | Distributed transactions across microservices using the orchestrated Saga pattern, with compensating actions |
-| [wallet](https://github.com/Akmyrat03/wallet) | Wallet service with safe balance operations and transactional consistency |
-| [avito_transaction_manager_example](https://github.com/Akmyrat03/avito_transaction_manager_example) | Transaction manager pattern that keeps the domain layer clean of DB transaction details |
-| [concurrency_patterns](https://github.com/Akmyrat03/concurrency_patterns) | Go concurrency in practice: worker pools, fan-in/fan-out, pipelines, cancellation with `context` |
-| [grpc-practice](https://github.com/Akmyrat03/grpc-practice) | gRPC services with Protobuf contracts, unary and streaming RPCs |
-| [architecture](https://github.com/Akmyrat03/architecture) | Clean / hexagonal architecture layout for Go services |
-| [logger](https://github.com/Akmyrat03/logger) | Reusable structured logging package |
-| [monitoring](https://github.com/Akmyrat03/monitoring) | Observability stack setup for metrics and logs |
+| 🏗️ **Microservices** | gRPC · REST · WebSockets · RabbitMQ |
+| 🗄️ **Data** | PostgreSQL · Redis · ScyllaDB |
+| 🔐 **Auth** | JWT · Casbin RBAC |
+| 🔁 **Distributed** | Saga · Transactions · Concurrency |
+| 📊 **Observability** | ELK · Structured logging |
+| 🚀 **Production** | Short-video social platform |
 
-## Tech Stack
+### 🛠️ Stack
 
-**Languages:** Go, SQL
-**Communication:** gRPC, Protobuf, REST, WebSockets, RabbitMQ
-**Data:** PostgreSQL, Redis, ScyllaDB
-**Security:** JWT, Casbin
-**Infra & Ops:** Docker, Linux, Git, GitHub Actions, ELK (Elasticsearch, Logstash, Kibana)
-**Practices:** Clean Architecture, DDD, Saga, Transactional Outbox, concurrency patterns, testing
-
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akmyrat03&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmyrat03&layout=compact&hide_border=true&theme=transparent" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,linux,git,githubactions,elasticsearch,kibana&perline=9" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/ScyllaDB-6CD5E7?style=for-the-badge&logo=scylladb&logoColor=black" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
-## Contact
+### 📌 Projects
 
-- Email: [backendprogrammer0@gmail.com](mailto:backendprogrammer0@gmail.com)
-- Telegram: [@meredow03](https://t.me/meredow03)
+<p align="center">
+  <a href="https://github.com/Akmyrat03/saga-orchestration-go"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmyrat03&repo=saga-orchestration-go&hide_border=true&theme=tokyonight" /></a>
+  <a href="https://github.com/Akmyrat03/wallet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmyrat03&repo=wallet&hide_border=true&theme=tokyonight" /></a>
+  <a href="https://github.com/Akmyrat03/concurrency_patterns"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmyrat03&repo=concurrency_patterns&hide_border=true&theme=tokyonight" /></a>
+  <a href="https://github.com/Akmyrat03/grpc-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmyrat03&repo=grpc-practice&hide_border=true&theme=tokyonight" /></a>
+</p>
 
-I'm open to backend / Go engineering roles and collaboration on distributed systems.
+### 📈 Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akmyrat03&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmyrat03&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akmyrat03&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E2CA5,100:00ADD8&height=100&section=footer" width="100%" />
