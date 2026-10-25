@@ -28,7 +28,7 @@
 ### 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,linux,git,githubactions,elasticsearch,kibana&perline=9" />
+  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,linux,git,githubactions,elasticsearch&perline=8" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
@@ -36,25 +36,9 @@
   <img src="https://img.shields.io/badge/ScyllaDB-6CD5E7?style=for-the-badge&logo=scylladb&logoColor=black" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-</p>
-
-### 📌 Projects
-
-<p align="center">
-  <a href="https://github.com/Akmyrat03/saga-orchestration-go"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmyrat03&repo=saga-orchestration-go&hide_border=true&theme=tokyonight" /></a>
-  <a href="https://github.com/Akmyrat03/wallet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmyrat03&repo=wallet&hide_border=true&theme=tokyonight" /></a>
-  <a href="https://github.com/Akmyrat03/concurrency_patterns"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmyrat03&repo=concurrency_patterns&hide_border=true&theme=tokyonight" /></a>
-  <a href="https://github.com/Akmyrat03/grpc-practice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Akmyrat03&repo=grpc-practice&hide_border=true&theme=tokyonight" /></a>
-</p>
-
-### 📈 Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akmyrat03&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmyrat03&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akmyrat03&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white" />
+  <img src="https://img.shields.io/badge/Teleport-512FC9?style=for-the-badge&logo=teleport&logoColor=white" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E2CA5,100:00ADD8&height=100&section=footer" width="100%" />
